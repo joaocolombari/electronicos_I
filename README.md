@@ -9,6 +9,17 @@ Este espaço reúne materiais de apoio, exemplos de simulação e referências f
 
 ---
 
+## Estrutura do Repositório
+
+O repositório está organizado por diretórios correspondentes às aulas.
+
+- `aula_1/`  
+  Contém os exemplos de simulação apresentados em sala, incluindo os circuitos demonstrados durante a explicação das análises básicas no LTspice.
+
+Novos diretórios serão adicionados ao longo do semestre conforme o avanço do conteúdo da disciplina.
+
+---
+
 ## 1. SPICE – Simulation Program with Integrated Circuit Emphasis
 
 O SPICE (*Simulation Program with Integrated Circuit Emphasis*) foi desenvolvido em 1973 na University of California, Berkeley.
